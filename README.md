@@ -1,4 +1,4 @@
-# Transfer-Learning
+# Transfer Learning with pretrained networks 
 Analysis of Transfer Learning to pre-trained Deep learning model architectures for classification applications.
 
 This project explores the use of transfer learning to predict the tool wear from acquired sensor signal data. 
